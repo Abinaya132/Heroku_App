@@ -1,5 +1,4 @@
 torch
 streamlit
-nltk
 vaderSentiment
 googletrans
